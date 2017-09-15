@@ -1,7 +1,7 @@
 # computationalphysics_N2015301020019
 work
-#work_01
-a=open("C:/Users/Administrator/Desktop/name.txt")%("路径/name.txt")
+#  work_01
+a=open("C:/Users/Administrator/Desktop/name.txt")      %("路径/name.txt")
 i=15
 p=len('name')
 while p:
