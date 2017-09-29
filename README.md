@@ -6,3 +6,5 @@ work
 运行结果为图片work_01.jpg:https://github.com/jizew/computationalphysics_N2015301020019/blob/master/work_01.jpg \n
 # work_02
 link of markdown:http://note.youdao.com/noteshare?id=8f4f558c0a95c782d983611a7703fa40
+# work_03
+link of markdown:http://note.youdao.com/noteshare?id=514c767464314a99220a3fac13d01a8b
