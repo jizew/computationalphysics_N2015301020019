@@ -8,3 +8,5 @@ work
 link of markdown:http://note.youdao.com/noteshare?id=8f4f558c0a95c782d983611a7703fa40
 # work_03
 link of markdown:http://note.youdao.com/noteshare?id=514c767464314a99220a3fac13d01a8b
+# work_04
+link of markdown:http://note.youdao.com/noteshare?id=1102cb3371acfd3d9e7a8821f58bf7da (待续。。。)
