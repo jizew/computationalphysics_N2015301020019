@@ -21,3 +21,6 @@ pygame版已更新：http://note.youdao.com/noteshare?id=742a2312600931207862f08
 https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/background.png
 
 https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/ball.png
+
+# work_05
+link of markdown: http://note.youdao.com/noteshare?id=364e2fb9fa6a0abd4413d6ab9e4c42ea
