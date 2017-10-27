@@ -24,3 +24,6 @@ https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/mast
 
 # work_05
 link of markdown: http://note.youdao.com/noteshare?id=364e2fb9fa6a0abd4413d6ab9e4c42ea
+
+# work_06
+link of markdown: http://note.youdao.com/noteshare?id=cd07b93ac6b5b54f77212b2cc484d810
