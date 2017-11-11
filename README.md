@@ -32,4 +32,5 @@ link of markdown: http://note.youdao.com/noteshare?id=c1b9df552f89825216bc1e2289
 # 期中作业
 作业已经写完，markdown还没有来得及好好写，我将整个py打包成了一个exe,正在上传到百度网盘，明早来更新网盘链接（200M多，git不接受直传，用pyinstaller打包的，将所有文件集成在exe里面，所以最后的exe太大了）
 简单的说目前做了一个有配音能计分的用炮弹（图标还是用的一个篮球）打随机初始位置出现的飞机的游戏。初始页面有开始游戏按键，进入游戏后按esc可以直接退出游戏。还能做不少改动，不过ddl已经到了就先更新一下。
-link:[mygame]http://pan.baidu.com/s/1nvSj2Tb
+
+link:[mygame](http://pan.baidu.com/s/1nvSj2Tb)
