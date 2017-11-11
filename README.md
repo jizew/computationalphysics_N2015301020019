@@ -34,5 +34,7 @@ link of markdown: http://note.youdao.com/noteshare?id=c1b9df552f89825216bc1e2289
 简单的说目前做了一个有配音能计分的用炮弹（图标还是用的一个篮球）打随机初始位置出现的飞机的游戏。初始页面有开始游戏按键，进入游戏后按esc可以直接退出游戏。还能做不少改动，不过ddl已经到了就先更新一下。
 
 link:[mygame](http://pan.baidu.com/s/1nvSj2Tb)
+
 源码链接：[这里](https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/mygame.py)
-所需资源压缩包网盘地址：[这里]（http://pan.baidu.com/s/1jIH0pq2）   （这个比较小，只有3.63M）
+
+所需资源压缩包网盘地址：[这里](http://pan.baidu.com/s/1jIH0pq2)   （这个比较小，只有3.63M）
