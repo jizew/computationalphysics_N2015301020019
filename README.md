@@ -42,3 +42,5 @@ link:[clsgame.exe](http://pan.baidu.com/s/1nvSj2Tb)
 更新一下链接：新版游戏源码：https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/mygame.py
 
 做了三关，有不同难度，有计分，按下esc可以回到主界面
+
+要没电了，明天上传新的exe版本，之前那个好像存在会打不开的问题。
