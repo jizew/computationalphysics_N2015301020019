@@ -40,11 +40,12 @@ link:[clsgame.exe](http://pan.baidu.com/s/1nvSj2Tb)
 所需资源压缩包网盘地址：[这里](http://pan.baidu.com/s/1jIH0pq2)   （这个比较小，只有3.63M）
 
 更新一下链接：新版游戏源码：https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/mygame.py
+（点击之后在那个raw的页面上右键鼠标选择另存为，把后缀.txt去掉，只保留.py，将文件类型选择为all，即可下载.py文件，实测可用）
 
 做了三关，有不同难度，有计分，按下esc可以回到主界面
 
 要没电了，明天上传新的exe版本，之前那个好像存在会打不开的问题。
 
-更新一下，这里是exe文件需要的资源，一些图片和音乐，解压后把exe扔进去运行就好link: [source](http://pan.baidu.com/s/1bVD7Tc)(别用上面那个了)
+更新一下，这里是exe文件需要的资源，一些图片和音乐，解压后把exe扔进去运行就好link: [source](http://pan.baidu.com/s/1bVD7Tc)(别用上面那个了，下载源码的话把源码和这些扔在一个文件夹里运行也可以)
 
 新版exe文件链接（内附所需文件，如果网快的话直接下载这个解压就能玩儿了）（改动：去掉了打开时弹出的控制台页面，去掉了开始界面上的鼠标位置显示数组）
