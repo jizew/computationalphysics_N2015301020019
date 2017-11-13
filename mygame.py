@@ -93,7 +93,7 @@ while True:
             font = pygame.font.SysFont("simsunnsimsun", 40)
             font2 = pygame.font.SysFont("simsunnsimsun", 30)
             text = u'上次游戏的分数为：'+str(price)+'分'
-            text2 = u''+str(xs)+str(ys)
+            #text2 = u''+str(xs)+str(ys)
             text3 = u'点击你要挑战的等级开始游戏（1级最难）'
             if (price==0):
                 text4 = u'             同学你需再努力一下'
@@ -432,7 +432,7 @@ while True:
         ip2 = 0
         yp3 = ran.randint(10, 200)
         xp3 = ran.randint(900, 990)
-        vp3 = ran.randint(1, 2)
+        vp3 = 2
         ip3 = 0
         tru1 = 1
         ball_count = 10
@@ -465,21 +465,41 @@ while True:
                     screen.blit(ball, (100 - 25, 500 - 18))
                     screen.blit(xlal, (7, 482))
                     # screen.blit(plane, (xp, yp))
-                    if ((xp1 - ip1 * vp1) <= 0):
-                        yp1 = ran.randint(10, 200)
-                        xp1 = ran.randint(900, 990)
-                        vp1 = ran.randint(1, 2)
-                        ip1 = 0
-                    if ((xp2 - ip2 * vp2) <= 0):
-                        yp2 = ran.randint(10, 200)
-                        xp2 = ran.randint(900, 990)
-                        vp2 = ran.randint(1, 2)
-                        ip2 = 0
-                    if ((xp3 - ip3 * vp3) <= 0):
-                        yp3 = ran.randint(10, 200)
-                        xp3 = ran.randint(900, 990)
-                        vp3 = ran.randint(1, 2)
-                        ip3 = 0
+                    if (qi == 0):
+                        if ((xp1 - ip1 * vp1) <= 0):
+                            yp1 = ran.randint(10, 300)
+                            xp1 = ran.randint(900, 990)
+                            vp1 = ran.randint(1, 1)
+                            ip1 = 0
+                            qi = 1
+                        if ((xp2 - ip2 * vp2) <= 0):
+                            yp2 = ran.randint(10, 300)
+                            xp2 = ran.randint(900, 990)
+                            vp2 = ran.randint(1, 1)
+                            ip2 = 0
+                            qi = 1
+                        if ((xp3 - ip3 * vp3) <= 0):
+                            yp3 = ran.randint(10, 300)
+                            xp3 = ran.randint(900, 990)
+                            vp3 = ran.randint(1, 1)
+                            ip3 = 0
+                            qi = 1
+                    elif (qi==1):
+                        if ((xp1 - ip1 * vp1) <= 0):
+                            yp1 = ran.randint(10, 200)
+                            xp1 = ran.randint(900, 990)
+                            vp1 = ran.randint(1, 2)
+                            ip1 = 0
+                        if ((xp2 - ip2 * vp2) <= 0):
+                            yp2 = ran.randint(10, 200)
+                            xp2 = ran.randint(900, 990)
+                            vp2 = ran.randint(1, 2)
+                            ip2 = 0
+                        if ((xp3 - ip3 * vp3) <= 0):
+                            yp3 = ran.randint(10, 200)
+                            xp3 = ran.randint(900, 990)
+                            vp3 = 2
+                            ip3 = 0
                     x, y = pygame.mouse.get_pos()
                     v0 = int(ma.sqrt((482 - y) * (482 - y) + (x - 75) * (x - 75))) * 2.5
                     if (v0 >= 2000):
@@ -660,7 +680,7 @@ while True:
                     if ((xp3 - ip3 * vp3) <= 0):
                         yp3 = ran.randint(10, 300)
                         xp3 = ran.randint(900, 990)
-                        vp3 = ran.randint(1, 2)
+                        vp3 = 2
                         ip3 = 0
                 elif(qi==0):
                     if ((xp1 - ip1 * vp1) <= 0):
@@ -723,11 +743,11 @@ while True:
         ip1 = 0
         yp2 = ran.randint(10, 200)
         xp2 = ran.randint(900, 990)
-        vp2 = ran.randint(1, 2)
+        vp2 = ran.randint(1, 3)
         ip2 = 0
         yp3 = ran.randint(10, 200)
         xp3 = ran.randint(900, 990)
-        vp3 = ran.randint(1,2)
+        vp3 = 2
         ip3 = 0
         tru1 = 1
         ball_count = 10
@@ -767,12 +787,12 @@ while True:
                     if ((xp2 - ip2 * vp2) <= 0):
                         yp2 = ran.randint(10, 200)
                         xp2 = ran.randint(900, 990)
-                        vp2 = ran.randint(1,2)
+                        vp2 = ran.randint(1,3)
                         ip2 = 0
                     if ((xp3 - ip3 * vp3) <= 0):
                         yp3 = ran.randint(10, 200)
                         xp3 = ran.randint(900, 990)
-                        vp3 = ran.randint(1,2)
+                        vp3 = 2
                         ip3 = 0
                     x, y = pygame.mouse.get_pos()
                     v0 = int(ma.sqrt((482 - y) * (482 - y) + (x - 75) * (x - 75))) * 2.5
@@ -903,7 +923,7 @@ while True:
                             (500 - y_[qq] - 18) - yp2) * ((500 - y_[qq] - 18) - yp2)) <= 20):
                     yp2 = ran.randint(10, 200)
                     xp2 = ran.randint(900, 990)
-                    vp2 = ran.randint(1,2)
+                    vp2 = ran.randint(1,3)
                     ip2 = 0
                     price += 1
                     screen.blit(plane2, (xp2 - ip2 * vp2, yp2))
@@ -919,7 +939,7 @@ while True:
                             (500 - y_[qq] - 18) - yp3) * ((500 - y_[qq] - 18) - yp3)) <= 20):
                     yp3 = ran.randint(10, 200)
                     xp3 = ran.randint(900, 990)
-                    vp3 = ran.randint(1,2)
+                    vp3 = 3
                     ip3 = 0
                     price += 1
                     screen.blit(plane3, (xp3 - ip3 * vp3, yp3))
@@ -939,12 +959,12 @@ while True:
                 if ((xp2 - ip2 * vp2) <= 0):
                     yp2 = ran.randint(10, 300)
                     xp2 = ran.randint(900, 990)
-                    vp2 = ran.randint(1, 2)
+                    vp2 = ran.randint(1, 3)
                     ip2 = 0
                 if ((xp3 - ip3 * vp3) <= 0):
                     yp3 = ran.randint(10, 300)
                     xp3 = ran.randint(900, 990)
-                    vp3 = ran.randint(1, 2)
+                    vp3 = 2
                     ip3 = 0
                 # 在新的位置上画图
                 pygame.display.update()
