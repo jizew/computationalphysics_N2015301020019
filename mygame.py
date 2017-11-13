@@ -113,11 +113,11 @@ while True:
                     text4 = u'    黄金打飞机圣手说的就是你了'
             else:pass
             text_surface = font.render(text, True, (0, 0, 255))
-            text_surface2 = font.render(text2, True, (0, 0, 255))
+            #text_surface2 = font.render(text2, True, (0, 0, 255))
             text_surface3 = font.render(text3, True, (0, 0, 255))
             text_surface4 = font2.render(text4, True, (255, 255, 20))
             screen.blit(text_surface, (40, 140))
-            screen.blit(text_surface2, (85, 80))
+            #screen.blit(text_surface2, (85, 80))
             screen.blit(text_surface3, (200, 80))
             screen.blit(text_surface4, (460, 150))
             pygame.display.update()
