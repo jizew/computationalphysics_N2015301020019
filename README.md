@@ -50,3 +50,8 @@ link:[clsgame.exe](http://pan.baidu.com/s/1nvSj2Tb)
 
 新版exe文件链接（内附所需文件，如果网快的话直接下载这个解压就能玩儿了）（改动：去掉了打开时弹出的控制台页面，去掉了开始界面上的鼠标位置显示数组）
 [网盘链接](http://pan.baidu.com/s/1bpfLaiz) 
+
+
+# work09
+习题4.12
+http://note.youdao.com/noteshare?id=ec2987a0add6ffed60c824a7552d13bf
