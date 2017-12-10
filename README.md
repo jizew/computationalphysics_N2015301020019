@@ -37,6 +37,7 @@ link:[clsgame.exe](http://pan.baidu.com/s/1nvSj2Tb)
 
 源码链接：[这里](https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/mygame.py)
 
+
 所需资源压缩包网盘地址：[这里](http://pan.baidu.com/s/1jIH0pq2)   （这个比较小，只有3.63M）
 
 更新一下链接：新版游戏源码：https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/mygame.py
@@ -55,3 +56,6 @@ link:[clsgame.exe](http://pan.baidu.com/s/1nvSj2Tb)
 # work09
 习题4.12
 http://note.youdao.com/noteshare?id=ec2987a0add6ffed60c824a7552d13bf
+
+# work10 电势场模拟 
+[作业链接](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/work10.md)
