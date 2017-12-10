@@ -72,10 +72,10 @@ for i in range(0,65):
  首先是3D效果展示：
  ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_1.2.png?raw=true)
  接着为二维视角：
-  ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_1.1.png?raw=true)
-   ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_1.png?raw=true)
+ ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_1.1.png?raw=true)
+ ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_1.png?raw=true)
  另一种初始条件：
-    ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.2.png?raw=true）
+ ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.2.png?raw=true)
  ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.11.png?raw=true)
  ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.png?raw=true)
  
