@@ -76,8 +76,8 @@ for i in range(0,65):
    ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_1.png?raw=true)
  另一种初始条件：
     ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.2.png?raw=true）
- ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.1.png?raw=true)
- ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_1.png?raw=true)
+ ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.11.png?raw=true)
+ ![image](https://github.com/jizew/computationalphysics_N2015301020019/blob/master/Figure_2.png?raw=true)
  
  ----
  源码链接： [python](https://raw.githubusercontent.com/jizew/computationalphysics_N2015301020019/master/tanks.py)
